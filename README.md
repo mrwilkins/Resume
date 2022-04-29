@@ -1,1 +1,1 @@
-# Resume along with Education, Skills, Hobbies, and Extracirricular
+# Resume along with an About me section
