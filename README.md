@@ -1,1 +1,1 @@
-# Resume along with an About me section
+# Resume and About me 
